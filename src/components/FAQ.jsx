@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     q: 'Are your dogs certified?',
-    a: 'We adhere to recognized Canadian service dog standards. Our dogs are trained to a professional level, and we provide comprehensive documentation of their training. Clients are educated on their rights under BC and federal law regarding public access.',
+    a: 'Our dogs are trained to recognized Canadian service dog standards and align with international best practices set out by Assistance Dogs International (ADI). All teams receive comprehensive training documentation, and clients are supported in understanding their rights under BC and federal legislation regarding public access.',
   },
   {
     q: 'Do I need a medical referral?',

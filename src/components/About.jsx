@@ -17,9 +17,10 @@ export default function About() {
           {/* Left: About */}
           <div>
             <span className="text-teal-600 font-semibold text-sm uppercase tracking-widest">About Us</span>
-            <h2 className="text-3xl md:text-4xl font-heading font-bold text-navy-700 mt-2 mb-5">
+            <h2 className="text-3xl md:text-4xl font-heading font-bold text-navy-700 mt-2 mb-1">
               Who We Are
             </h2>
+            <p className="text-sm text-gray-400 mb-5">Established 2021 &mdash; British Columbia, Canada</p>
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
                 Pacific Medical Alert Dogs is a British Columbia–based organization that trains highly
@@ -30,6 +31,12 @@ export default function About() {
                 training program built entirely around that person's specific condition, lifestyle, and
                 environment. We are a small, dedicated team, and we believe that doing this work well
                 means doing it one team at a time.
+              </p>
+              <p>
+                Our dogs are trained to recognized Canadian service dog standards and align with
+                international best practices set out by Assistance Dogs International (ADI). All teams
+                receive comprehensive training documentation, and clients are supported in understanding
+                their rights under BC and federal legislation regarding public access.
               </p>
               <p>
                 Animal welfare is central to everything we do. All dogs in our program are selected,

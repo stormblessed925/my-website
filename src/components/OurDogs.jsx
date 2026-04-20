@@ -13,6 +13,9 @@ const traits = [
 const breeds = [
   { name: 'Labrador Retriever', note: 'Most common — excellent temperament and scenting ability' },
   { name: 'Golden Retriever', note: 'Highly biddable and gentle — ideal for many alert tasks' },
+  { name: 'German Shepherd', note: 'Highly intelligent and versatile — well-suited for complex alert work' },
+  { name: 'Australian Shepherd', note: 'Energetic and highly trainable — strong scent detection capacity' },
+  { name: 'Border Collie', note: 'Exceptional focus and intelligence — suited for highly specific tasks' },
   { name: 'Standard Poodle', note: 'Hypoallergenic option with exceptional intelligence' },
   { name: 'Goldendoodle / Labradoodle', note: 'Considered case-by-case for low-allergen needs' },
 ]

@@ -3,7 +3,7 @@ import { MapPin } from 'lucide-react'
 
 export default function Hero() {
   return (
-    <section className="relative flex items-center overflow-hidden bg-gradient-to-br from-navy-700 via-navy-600 to-navy-800 py-28 md:py-40">
+    <section className="relative flex items-center overflow-hidden bg-gradient-to-br from-navy-700 via-navy-600 to-navy-800 py-16 md:py-24">
       {/* Soft glow accents */}
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-teal-500 opacity-10 rounded-full translate-x-1/3 -translate-y-1/3 blur-3xl pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-80 h-80 bg-teal-400 opacity-10 rounded-full -translate-x-1/3 translate-y-1/3 blur-3xl pointer-events-none" />
@@ -16,7 +16,7 @@ export default function Hero() {
       </div>
 
       <div className="relative max-w-4xl mx-auto px-6 text-center">
-        <div className="inline-flex items-center gap-2 bg-white/10 text-teal-300 border border-teal-400/30 rounded-full px-4 py-1.5 text-sm font-medium mb-8">
+        <div className="inline-flex items-center gap-2 bg-white/10 text-teal-300 border border-teal-400/30 rounded-full px-4 py-1.5 text-sm font-medium mb-6">
           <MapPin size={13} />
           British Columbia, Canada
         </div>
